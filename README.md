@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **kristina.strateva@gmail.com**
 
-- ⚡ Fun fact: **I found my passion for programming by accident and it turned out that this is 'my thing'!**
+- ⚡ Fun fact: **I found my passion for programming by surprise and it turned out that this is 'my thing'!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
