@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristinastrateva&label=Profile%20views&color=0e75b6&style=flat" alt="kristinastrateva" /> </p>
 
-- 🔭 I’m currently working on [Pyrography Art Gallery](https://github.com/KristinaStrateva/Pyrography-Art-Gallery)
+- 🔭 I’m currently working on [Angular project](https://github.com/KristinaStrateva/Angular-project)
 
 - 🌱 I’m currently learning **Angular + TypeScript**
 
