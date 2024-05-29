@@ -23,8 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristinastrateva&show_icons=true&locale=en&layout=compact" alt="kristinastrateva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristinastrateva&show_icons=true&locale=en" alt="kristinastrateva" /></p>
-<div align="center">
-  <img align="center" height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI5YmVpMXY5dDZxanVram1tNXBhc2E0Y3g2b3FxMXBrazhkMjZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif"  />
-</div>
+
+<img src="https://streak-stats.demolab.com?user=kristinastrateva&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristinastrateva&" alt="kristinastrateva" /></p>
