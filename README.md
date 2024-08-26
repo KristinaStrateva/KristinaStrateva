@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kristina Strateva</h1>
-<h3 align="center">A passionate JS Frontend Web developer from Bulgaria</h3>
+<h3 align="center">A passionate JS Web developer from Bulgaria</h3>
 <img align="right" alt="coding_girl" width="400" src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristinastrateva&label=Profile%20views&color=0e75b6&style=flat" alt="kristinastrateva" /> </p>
